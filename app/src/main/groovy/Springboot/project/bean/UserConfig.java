@@ -1,6 +1,6 @@
 package Springboot.project.bean;
 
-//bean
+//bean is a templete used without creating the instances
 
 public class UserConfig {
     private String name;
