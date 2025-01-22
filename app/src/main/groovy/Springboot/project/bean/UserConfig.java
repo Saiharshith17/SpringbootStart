@@ -1,5 +1,7 @@
 package Springboot.project.bean;
 
+
+
 public class UserConfig {
     private String name;
     private String className;
