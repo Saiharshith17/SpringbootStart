@@ -1,6 +1,6 @@
 package Springboot.project.bean;
 
-
+//bean
 
 public class UserConfig {
     private String name;
